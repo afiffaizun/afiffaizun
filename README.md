@@ -1,8 +1,8 @@
 # Hi, I'm Fai
 
-I'm a **Backend Golang Developer** based in Indonesia.  
-I focus on building scalable backend systems, clean architecture, REST/JSON APIs, and secure backend applications.  
-I love solving technical problems, designing maintainable services, and writing clean & testable Go code.
+I'm currently learning to become a **Backend Golang Developer**.  
+Right now, I'm focusing on understanding the fundamentals of backend development such as REST APIs, clean project structure, database integration, and deploying simple backend apps.
+I'm still improving step by step — building small projects, exploring best practices, and learning how to write clean and maintainable Go code.
 
 I use Git, Docker, and Linux in most of my workflows.
 
