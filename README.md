@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fai
 
-<!--
-**afiffaizun/afiffaizun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Golang Developer** based in Indonesia.  
+I focus on building scalable backend systems, clean architecture, REST/JSON APIs, and secure backend applications.  
+I love solving technical problems, designing maintainable services, and writing clean & testable Go code.
 
-Here are some ideas to get you started:
+I use Git, Docker, and Linux in most of my workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## ⚙️ Tech Stack
+
+### **Languages**
+- Go (Golang)
+- Bash
+- SQL
+
+
+### **Tools & Platforms**
+- Docker  
+- Git & GitHub  
+- PostgreSQL / MySQL  
+- Redis  
+- Linux (Ubuntu, Kali)  
+
+---
+
+## 📩 Contact Me
+
+Feel free to contact me at **afiffaizun31@gmail.com**  
+if you find my profile interesting and fitting for your project needs.
+
