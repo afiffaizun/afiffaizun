@@ -1,6 +1,6 @@
 # Hi, I'm Fai
 
-I'm currently learning to become a **Backend Golang Developer** and also deepen my knowledge in the field of **IT Security Analyst**.  
+I'm currently learning to become a **Backend Golang Developer** and also deepen in the field of **IT Security Analyst**.  
 Right now, I'm focusing on understanding the fundamentals of backend development such as REST APIs, clean project structure, database integration, and understand system security aspects..
 I'm still improving step by step — building small projects, exploring best practices, and learning how to write clean and maintainable Go code.
 
@@ -22,7 +22,9 @@ I use Git, Docker, and Linux in most of my workflows.
 - Git & GitHub  
 - PostgreSQL / MySQL  
 - Redis  
-- Linux (Ubuntu, Kali)  
+- Linux (Ubuntu, Kali)
+- Wireshark
+- Burpsuite
 
 ---
 
