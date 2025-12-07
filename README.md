@@ -21,7 +21,6 @@ I use Git, Docker, and Linux in most of my workflows.
 - Docker  
 - Git & GitHub  
 - PostgreSQL / MySQL  
-- Redis  
 - Linux (Ubuntu, Kali)
 - Wireshark
 - Burpsuite
