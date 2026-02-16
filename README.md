@@ -25,10 +25,4 @@ I use Git, Docker, and Linux in most of my workflows.
 - Wireshark
 - Burpsuite
 
----
-
-## 📩 Contact Me
-
-Feel free to contact me at **afiffaizun31@gmail.com**  
-if you find my profile interesting and fitting for your project needs.
 
