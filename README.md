@@ -1,27 +1,17 @@
 # Hi, I'm Fai
 
-I'm currently learning to become a Backend Golang Developer and also deepen in the field of IT Security Analyst.  
-Right now, I'm focusing on understanding the fundamentals of backend development such as REST APIs, clean project structure, database integration, and understand system security aspects..
-I'm still improving step by step — building small projects, exploring best practices, and learning how to write clean and maintainable Go code.
-
-I use Git, Docker, and Linux in most of my workflows.
-
+I'm currently learning to become a DevSecOps Engineer and deepen my expertise as an IT Security Analyst.
+Right now, I'm focusing on understanding DevSecOps fundamentals, including Infrastructure as Code (Terraform), containerization with Docker, CI/CD pipelines, Kubernetes, monitoring and logging, as well as integrating security into the software development lifecycle.
+At the same time, I'm strengthening my knowledge of cybersecurity by learning SIEM, vulnerability management, Linux security, network security, and incident analysis.
+I'm still improving step by step building hands-on projects, following industry best practices, and continuously expanding my skills in automation, cloud infrastructure, and security.
 ---
 
-
-## ⚙️ Tech Stack
-
-### **Languages**
-- Go (Golang)
-- Bash
-- SQL
-
-
 ### **Tools & Platforms**
-- Docker  
-- Git & GitHub  
-- PostgreSQL / MySQL  
-- Linux (Ubuntu, Kali)
+- Docker
+- Terraform
+- Ansible
+- Git
+- Linux 
 - Wireshark
 - Burpsuite
 
